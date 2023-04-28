@@ -7,4 +7,5 @@ Open Terminal in Folder Which Contain This automate.sh file and type:
 
 ### And Enter Domain
 
+
 ### Output: subdomains.txt
