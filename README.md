@@ -3,6 +3,8 @@ This is Automated Domain Enumeration using subfinder and amass to find large no 
 
 Open Terminal in Folder Which Contain This automate.sh file and type:
 
-### bash automate.sh and Enter Domain
+### bash automate.sh
+
+### And Enter Domain
 
 ### Output: subdomains.txt
