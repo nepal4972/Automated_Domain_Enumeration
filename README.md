@@ -3,7 +3,7 @@ This is Automated Domain Enumeration using subfinder and amass to find large no 
 
 Open Terminal in Folder Which Contain This automate.sh file and type:
 
-### bash automate.sh
+### bash automate.sh  OR  Use: ./automate.sh  But Need to Change File Permission to use this way
 
 ### And Enter Domain
 
